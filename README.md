@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sanjeeb Tiwary</h1>
 <h3 align="center">Aspirant Data Scientist | Student at KiiT University</h3>
 
+<h3 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><p align="center">
+</h3>
+ 
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+<h1 align="center"> Hello Guys!🤠, Sanjeeb Tiwary this side🙎‍♂️</h1>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h3 align="center"> Aspirant Data Scientist & ML Developer. A Tech Geek with a passion of learning New Technologies.</h3>
+
+<p align="center">
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20developer;Web%20and%20Ml%20Expert;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjeebtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeebtiwary" /> </p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeebtiwary&theme=tokyonight" width="450px">
