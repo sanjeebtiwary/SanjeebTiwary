@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjeebtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeebtiwary" /> </p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeebtiwary&theme=tokyonight" width="450px">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=sanjeebtiwary&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
     <img src="https://github-readme-stats.vercel.app/api?username=sanjeebtiwary&show_icons=true&theme=tokyonight" width="450px">
 </div>
 
