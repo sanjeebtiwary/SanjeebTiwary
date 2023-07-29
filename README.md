@@ -8,7 +8,7 @@
 
 <h1 align="center"> Hello Guys!🤠, Sanjeeb Tiwary this side🙎‍♂️</h1>
 <img src="Google_Analytics_Certification-removebg-preview.png" alt="Google_Analytics_Certification" style="width:200px; height:200px"/>
-<img src="LevelNew.png" alt="Microsoft" style="width:30px; height:20px"/>
+<img src="LevelNew.png" alt="Microsoft" style="width:100px; height:90px"/>
 
 
 <h3 align="center">
