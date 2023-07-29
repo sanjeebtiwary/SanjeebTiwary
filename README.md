@@ -36,7 +36,7 @@
 </div>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeebtiwary" alt="sanjeebtiwary" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sanjeebtiwary1" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeebtiwary1?logo=twitter&style=for-the-badge" alt="sanjeebtiwary1" /></a> </p>
 
