@@ -7,9 +7,11 @@
 </p>
 
 <h1 align="center"> Hello Guys!🤠, Sanjeeb Tiwary this side🙎‍♂️</h1>
-<img src="Google_Analytics_Certification-removebg-preview.png" alt="Google_Analytics_Certification" style="width:100px; height:100px"/>
-<img src="LevelNew.png" alt="Microsoft" style="width:100px; height:90px"/>
 
+<div align="center">
+  <img src="Google_Analytics_Certification-removebg-preview.png" alt="Google Analytics Certification" width="100" height="100">
+  <img src="LevelNew.png" alt="Microsoft" width="100" height="90">
+</div>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
