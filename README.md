@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **sanjeebtiwary9006@gmail.com**
 
-- 📄 Know about my experiences [Sanjeeb Tiwary]([https://drive.google.com/file/d/1j4Nw4OfW48Q7vcAdc527oPGsvndIJaaZ/view?usp=share_link](https://drive.google.com/file/d/1iuxn8xq0dQS6y7v0QwQdPvKeBNz6OF6R/view?usp=sharing))
+- 📄 Know about my experiences [Sanjeeb Tiwary](https://drive.google.com/file/d/1iuxn8xq0dQS6y7v0QwQdPvKeBNz6OF6R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
