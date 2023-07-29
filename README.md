@@ -8,8 +8,8 @@
 
 <h1 align="center"> Hello Guys!🤠, Sanjeeb Tiwary this side🙎‍♂️</h1>
 
-![Google_Analytics_Certification-removebg-preview](https://github.com/sanjeebtiwary/SanjeebTiwary/assets/63203112/32e27824-2d8f-45d8-8342-02337d8f5c7b)
-![LevelNew](https://github.com/sanjeebtiwary/SanjeebTiwary/assets/63203112/b960e494-ce5f-498b-93d3-45e7355438b4)
+![Google_Analytics_Certification-removebg-preview](https://github.com/sanjeebtiwary/SanjeebTiwary/assets/63203112/32e27824-2d8f-45d8-8342-02337d8f5c7b |  width=100)
+![LevelNew](https://github.com/sanjeebtiwary/SanjeebTiwary/assets/63203112/b960e494-ce5f-498b-93d3-45e7355438b4 |  width=100)
 
 
 <h3 align="center">
