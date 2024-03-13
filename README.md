@@ -9,9 +9,9 @@ I'm a Data scientist who loves to explore and learn new technologies. Here's a q
 
 ## 📚 Latest Blog Posts
 
-1. [Title of Blog Post 1](link-to-blog-post-1)
-2. [Title of Blog Post 2](link-to-blog-post-2)
-3. [Title of Blog Post 3](link-to-blog-post-3)
+1. [Unleash the Data Dragon: Igniting Your Business’s Journey to Unicorn Status!](https://sanjeebtiwary.medium.com/unleash-the-data-dragon-igniting-your-businesss-journey-to-unicorn-status-ee5f50eaaf8a)
+2. [Unveiling the Power Play: How Amazon Utilizes Business Intelligence to Shape Customer Behavior](https://sanjeebtiwary.medium.com/unveiling-the-power-play-how-amazon-utilizes-business-intelligence-to-shape-customer-behavior-336cf3defb2c)
+3. [Unraveling Mysteries with Physics-Informed Neural Networks: A Journey into Cutting-Edge Scientific Machine Learning](https://sanjeebtiwary.medium.com/unraveling-mysteries-with-physics-informed-neural-networks-a-journey-into-cutting-edge-scientific-b0187b5da74c)
 
 ## 🌱 Currently Learning
 
