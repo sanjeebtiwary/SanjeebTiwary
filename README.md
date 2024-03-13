@@ -21,19 +21,3 @@ I'm a Data scientist who loves to explore and learn new technologies. Here's a q
 
 
 <p align="center"> <a href="https://github.com/sanjeebtiwary?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/sanjeebtiwary?style=social" alt="GitHub followers" width="100"> </a> <a href="https://github.com/sanjeebtiwary?tab=repositories" target="_blank"> <img src="https://img.shields.io/github/stars/sanjeebtiwary?tab=repositories?style=social" alt="GitHub stars" width="100"> </a> <a href="https://www.linkedin.com/in/sanjeeb-tiwary/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" alt="LinkedIn" width="100"> </a> </p>
-
-
-<style>
-  h1, h2, h3, h4, h5, h6 {
-    animation: fadeIn 2s;
-  }
-
-  p, a, li, img {
-    animation: fadeIn 2s;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
