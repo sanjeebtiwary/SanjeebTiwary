@@ -1,12 +1,10 @@
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+# Hi, I'm Sanjeeb Tiwary 👋
 
-<h3 align="center"> 🚀 My Tech Stack </h3>
+I'm a Data Scientiest who loves to explore and learn new technologies. Here's a quick overview of my tech stack and some of my latest blog posts:
 
-<p align="center">
-  💻 Here are some technologies I love working with:
-</p>
+## 🚀 My Tech Stack
+
+Here are some technologies I love working with:
 
 <div align="center">
   <img src="tech/python.png" alt="Python" width="40" height="40">
@@ -17,62 +15,22 @@
   <img src="tech/git.png" alt="Git" width="40" height="40">
 </div>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+## 📚 Latest Blog Posts
 
-<h3 align="center"> 📚 Latest Blog Posts </h3>
+1. [Title of Blog Post 1](link-to-blog-post-1)
+2. [Title of Blog Post 2](link-to-blog-post-2)
+3. [Title of Blog Post 3](link-to-blog-post-3)
 
-<!-- Add your latest blog post links here -->
-<p align="center">
-  📝 Check out my latest blog posts:
-  <br>
-  1. [Title of Blog Post 1](#)
-  <br>
-  2. [Title of Blog Post 2](#)
-  <br>
-  3. [Title of Blog Post 3](#)
-</p>
+## 🌱 Currently Learning
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+1. [Deep Learning](link-to-deep-learning-resource)
+2. [Docker](link-to-docker-resource)
 
-<h3 align="center"> 🌱 Currently Learning </h3>
 
-<p align="center">
-  📖 Currently diving into the realms of:
-</p>
 
-<div align="center">
-  <img src="tech/deep-learning.png" alt="Deep Learning" width="40" height="40">
-  <img src="tech/docker.png" alt="Docker" width="40" height="40">
-  <img src="tech/kubernetes.png" alt="Kubernetes" width="40" height="40">
-  <img src="tech/cloud.png" alt="Cloud Technologies" width="40" height="40">
-</div>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+[![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=social)](https://github.com/sanjeebtiwary)
 
-<h3 align="center"> 🎯 Goals for the Future </h3>
+[![GitHub stars](https://img.shields.io/github/stars/your_github_username/your_repository_name?style=social)](https://github.com/sanjeebtiwary?tab=repositories)
 
-<p align="center">
-  🚀 My future goals include:
-</p>
-
-<div align="center">
-  🌟 Mastering advanced machine learning techniques
-  <br>
-  🌐 Contributing to open-source projects
-  <br>
-  📢 Sharing knowledge through more blog posts and tutorials
-</div>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Let's+make+awesome+things+happen;Happy+coding!+🚀">
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/sanjeeb-tiwary/)
