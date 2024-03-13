@@ -4,12 +4,12 @@ I'm a Data scientist who loves to explore and learn new technologies. Here's a q
 
 <h3 align="center"> 🚀 My Tech Stack </h3> <p align="center"> 💻 Here are some technologies I love working with
 <div align="center">
-  <img src="tech/python.png" alt="Python" width="40" height="40">
-  <img src="tech/jupyter.png" alt="Jupyter" width="40" height="40">
-  <img src="tech/tensorflow.png" alt="TensorFlow" width="40" height="40">
-  <img src="tech/scikit-learn.png" alt="scikit-learn" width="40" height="40">
-  <img src="tech/sql.png" alt="SQL" width="40" height="40">
-  <img src="tech/git.png" alt="Git" width="40" height="40">
+  <img src="python.png" alt="Python" width="100" height="100">
+  <img src="jupyter.png" alt="Jupyter" width="100" height="100">
+  <img src="tensorflow.png" alt="TensorFlow" width="100" height="100">
+  <img src="scikit-learn.png" alt="scikit-learn" width="100" height="100">
+  <img src="sql.png" alt="SQL" width="100" height="100">
+  <img src="git.png" alt="Git" width="100" height="100">
 </div>
 
 ## 📚 Latest Blog Posts
