@@ -1,3 +1,21 @@
+<style>
+  h1, h2, h3, h4, h5, h6 {
+    animation: fadeIn 2s;
+  }
+
+  p, a, li, img {
+    animation: fadeIn 2s;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
+
+
+
 # Hi, I'm Sanjeeb Tiwary 👋
 
 I'm a Data scientist who loves to explore and learn new technologies. Here's a quick overview of my tech stack and some of my latest blog posts:
