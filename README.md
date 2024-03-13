@@ -7,12 +7,12 @@ I'm a Data Scientiest who loves to explore and learn new technologies. Here's a 
 Here are some technologies I love working with:
 
 <div align="center">
-  <img src="tech/python.png" alt="Python" width="40" height="40">
-  <img src="tech/jupyter.png" alt="Jupyter" width="40" height="40">
-  <img src="tech/tensorflow.png" alt="TensorFlow" width="40" height="40">
-  <img src="tech/scikit-learn.png" alt="scikit-learn" width="40" height="40">
-  <img src="tech/sql.png" alt="SQL" width="40" height="40">
-  <img src="tech/git.png" alt="Git" width="40" height="40">
+  <img src="python.png" alt="Python" width="40" height="40">
+  <img src="jupyter.png" alt="Jupyter" width="40" height="40">
+  <img src="tensorflow.png" alt="TensorFlow" width="40" height="40">
+  <img src="scikit-learn.png" alt="scikit-learn" width="40" height="40">
+  <img src="sql.png" alt="SQL" width="40" height="40">
+  <img src="git.png" alt="Git" width="40" height="40">
 </div>
 
 ## 📚 Latest Blog Posts
