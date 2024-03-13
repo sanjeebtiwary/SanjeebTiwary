@@ -1,6 +1,6 @@
 # Hi, I'm Sanjeeb Tiwary 👋
 
-I'm a Data Scientiest who loves to explore and learn new technologies. Here's a quick overview of my tech stack and some of my latest blog posts:
+I'm a Data scientist who loves to explore and learn new technologies. Here's a quick overview of my tech stack and some of my latest blog posts:
 
 <h3 align="center"> 🚀 My Tech Stack </h3> <p align="center"> 💻 Here are some technologies I love working with: </p> <div align="center"> <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jupyter/jupyter/main/docs/static/images/logo.svg" alt="Jupyter" width="100" height="100"> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.tensorflow.org/images/tf_logo_horizontal_white.svg" alt="TensorFlow" width="100" height="100"> </a> <a href="https://lear.netlify.app/" target="_blank"> <img src="https://raw.githubusercontent.com/lear-ai/lear/main/docs/assets/logo.svg" alt="Lear" width="100" height="100"> </a> </div>
 
