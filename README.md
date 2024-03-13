@@ -20,8 +20,6 @@ I'm a Data scientist who loves to explore and learn new technologies. Here's a q
 
 
 
-<div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/sanjeebtiwary?style=social)](https://github.com/sanjeebtiwary)   [![GitHub stars](https://img.shields.io/github/stars/sanjeebtiwary?tab=repositories?style=social)](https://github.com/sanjeebtiwary?tab=repositories)     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/sanjeeb-tiwary/)
-</div>
+<p align="center"> <a href="https://github.com/sanjeebtiwary?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/sanjeebtiwary?style=social" alt="GitHub followers" width="100"> </a> <a href="https://github.com/sanjeebtiwary?tab=repositories" target="_blank"> <img src="https://img.shields.io/github/stars/sanjeebtiwary?tab=repositories?style=social" alt="GitHub stars" width="100"> </a> <a href="https://www.linkedin.com/in/sanjeeb-tiwary/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" alt="LinkedIn" width="100"> </a> </p>
 
 
