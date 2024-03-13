@@ -21,8 +21,8 @@ I'm a Data scientist who loves to explore and learn new technologies. Here's a q
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=social)](https://github.com/sanjeebtiwary)
+[![GitHub followers](https://img.shields.io/github/followers/sanjeebtiwary?style=social)](https://github.com/sanjeebtiwary)
 
-[![GitHub stars](https://img.shields.io/github/stars/your_github_username/your_repository_name?style=social)](https://github.com/sanjeebtiwary?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/sanjeebtiwary/?tab=repositories?style=social)](https://github.com/sanjeebtiwary?tab=repositories)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/sanjeeb-tiwary/)
