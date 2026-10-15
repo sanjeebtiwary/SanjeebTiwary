@@ -210,10 +210,11 @@ A document-processing workflow for extracting useful information from scanned fi
   <img src="https://streak-stats.demolab.com?user=sanjeebtiwary&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeebtiwary&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 </p>
-
+-->
 ---
 
 ## 🔬 Research Interests
